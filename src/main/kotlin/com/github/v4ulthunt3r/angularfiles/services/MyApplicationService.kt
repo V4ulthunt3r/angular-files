@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.v4ulthunt3r.angularfiles.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.v4ulthunt3r.angularfiles.MyBundle
 
 class MyApplicationService {
 
